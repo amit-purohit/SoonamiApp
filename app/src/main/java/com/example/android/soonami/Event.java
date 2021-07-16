@@ -44,4 +44,7 @@ public class Event {
         time = eventTime;
         tsunamiAlert = eventTsunamiAlert;
     }
+
+
+    
 }
